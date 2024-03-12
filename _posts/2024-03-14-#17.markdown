@@ -5,6 +5,7 @@ date:   2024-03-12 09:47:36 +0100
 categories: jekyll update
 ---
 In an alternate ending of "Shrek," instead of Shrek and Fiona living happily ever after, they discover a hidden portal that takes them to modern-day New York City. They end up starting a successful food truck business selling "Ogre's Delight" — a unique blend of swamp-inspired cuisine that becomes a hit among New Yorkers craving adventurous flavors. However, chaos ensues when Lord Farquaad discovers the portal and tries to take over the food truck empire for himself!
+![sherk4](skrek4.jpg)
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
