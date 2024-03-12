@@ -12,7 +12,7 @@ At ShrekFacts.com, we delve deep into the layers of the Shrek universe, bringing
 
 Whether you're a die-hard fan or just someone who enjoys a good fairy tale with a twist, ShrekFacts.com has something for everyone. Join us on a journey through the swamps of Duloc, the halls of Far Far Away, and beyond as we explore the enchanting world of Shrek like never before.
 
-From fun facts to obscure trivia, movie analyses to character spotlights, ShrekFacts.com is your go-to resource for all the ogre-tastic information you never knew you needed. So grab your onions, polish your donkey's hooves, and get ready to dive into the swampy wonders of ShrekFacts.com!
+From fun facts to obscure trivia, movie analyses to character spotlights, ShrekFacts.com is your go-to resource for all the ogre-tastic information you never knew you needed. So grab your onions, polish your donkey's hooves, and get ready to dive into the swampy wonders of ShrekFacts.com! 
 
 
 [jekyll-organization]: https://github.com/jekyll
