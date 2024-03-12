@@ -30,7 +30,7 @@ twitter_username: ShrekFest
 github_username:  ShrekFest
 
 # Build settings
-theme: shrekfest
+theme: jekyll-theme-Dinky
 plugins:
   - jekyll-feed
 
